@@ -29,9 +29,9 @@ Integrative analysis
 Overrepresentation analyses (See Khatri et al. 2012: Ten Years of pathway analysis: current approaches and outstanding challenges)
 See Ge et al. 2003: Integrating ‘omic’ information: a bridge between genomics and systems biology
 
-Specific methods  
+- Specific methods  
 Combining dependent univariate test statistics (Rotroff & Motsinger-Reif 2016)
-
+  
 Biological networks  
 Weighted network analysis (Horvath 2011 Book)
 
